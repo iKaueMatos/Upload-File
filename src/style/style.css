@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 14%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.label-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    padding: 10px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-file {
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.button-to {
+    margin-top: 10px;
+    background-color: rgb(43, 211, 211);
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+}
