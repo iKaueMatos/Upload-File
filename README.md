@@ -26,12 +26,11 @@ Inicie o servidor local:
 Utilize o XAMP para dar start no servidor local na sua maquina e no seu navegador por localhost/nome da pasta que você colocou o projeto
 
 ## 🛠️ Tecnologias Utilizadas
-<img src="https://img.shields.io/badge/-tecnologia%201-007ACC?style=flat-square&logo=technology&logoColor=white" alt="PHP">
-PHP
-<img src="https://img.shields.io/badge/-tecnologia%202-007ACC?style=flat-square&logo=technology&logoColor=white" alt="HTML/CSS">
-HTML/CSS
-<img src="https://img.shields.io/badge/-tecnologia%203-007ACC?style=flat-square&logo=technology&logoColor=white" alt="MYSQL">
-MYSQL
+
+<img src="https://img.shields.io/badge/-tecnologia%201-007ACC?style=flat-square&logo=PHP&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/-tecnologia%202-007ACC?style=flat-square&logo=HTML/CSS&logoColor=white" alt="HTML/CSS">
+<img src="https://img.shields.io/badge/-tecnologia%203-007ACC?style=flat-square&logo=MYSQL&logoColor=white" alt="MYSQL">
+
 
 ## 🤝 Contribuindo com o projeto
 Se você quiser contribuir com o projeto, siga os passos abaixo:
