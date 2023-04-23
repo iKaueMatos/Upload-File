@@ -28,7 +28,8 @@ Utilize o XAMP para dar start no servidor local na sua maquina e no seu navegado
 ## 🛠️ Tecnologias Utilizadas
 
 <img src="https://img.shields.io/badge/-tecnologia%201-007ACC?style=flat-square&logo=PHP&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/-tecnologia%202-007ACC?style=flat-square&logo=HTML/CSS&logoColor=white" alt="HTML/CSS">
+<img src="https://img.shields.io/badge/-tecnologia%202-007ACC?style=flat-square&logo=HTML&logoColor=white" alt="HTML/CSS">
+<img src="https://img.shields.io/badge/-tecnologia%202-007ACC?style=flat-square&logo=CSS&logoColor=white" alt="HTML/CSS">
 <img src="https://img.shields.io/badge/-tecnologia%203-007ACC?style=flat-square&logo=MYSQL&logoColor=white" alt="MYSQL">
 
 
