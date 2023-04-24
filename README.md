@@ -10,10 +10,6 @@ Esse pequeno script foi desenvolvido em PHP com intuito de fazer upload de image
 
 Para executar o projeto em sua máquina local, siga os passos abaixo:
 
-Faça um clone deste repositório em sua máquina local:
-bash
-Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
 Instale as dependências do projeto:
 
 XAMP
