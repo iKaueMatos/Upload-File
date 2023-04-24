@@ -12,9 +12,9 @@ Para executar o projeto em sua máquina local, siga os passos abaixo:
 
 Instale as dependências do projeto:
 
-XAMP
-PHP
-MYSQL
+*XAMP<br>
+*PHP<br>
+*MYSQL<br>
 
 ## Para iniciar o servidor local:
 Inicie o servidor local:
